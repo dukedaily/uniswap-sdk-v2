@@ -39,9 +39,9 @@ var Rounding;
 })(Rounding || (Rounding = {})); // export const FACTORY_ADDRESS = '0xd41130E9142c64Da60908d2a6Bd0eD191Bc6d7E4'
 
 
-var FACTORY_ADDRESS = '0x13258907e05f5f3ABd83c5eD11026A97b282840c'; // export const INIT_CODE_HASH = '0x1a2b467a96f24f635e38aa0d5eb137af393113cb941125f3cbf3d93857eb6e69'
+var FACTORY_ADDRESS = '0x7949a6266b746B48a126CE4927eEc3044c9dd5fb'; // export const INIT_CODE_HASH = '0x1a2b467a96f24f635e38aa0d5eb137af393113cb941125f3cbf3d93857eb6e69'
 
-var INIT_CODE_HASH = '0xabcad157d4f4db8a3024847af1c3500d0c73f985f254ebf6cb0ab1b0de471b2a';
+var INIT_CODE_HASH = '0xb657fe2d12c16841cf4fef1c078d97a1ae0d8c4497637bfa13b8ddc69076d51f';
 var MINIMUM_LIQUIDITY = /*#__PURE__*/JSBI.BigInt(1000); // exports for internal consumption
 
 var ZERO = /*#__PURE__*/JSBI.BigInt(0);
@@ -1572,4 +1572,4 @@ var Fetcher = /*#__PURE__*/function () {
 }();
 
 export { ChainId, Currency, CurrencyAmount, ETHER, FACTORY_ADDRESS, Fetcher, Fraction, INIT_CODE_HASH, InsufficientInputAmountError, InsufficientReservesError, MINIMUM_LIQUIDITY, Pair, Percent, Price, Rounding, Route, Router, Token, TokenAmount, Trade, TradeType, WETH, currencyEquals, inputOutputComparator, tradeComparator };
-//# sourceMappingURL=sdk.esm.js.map
+//# sourceMappingURL=uniswap-v2-sdk.esm.js.map
